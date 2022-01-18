@@ -1,0 +1,1 @@
+In web folder run `yarn start`
